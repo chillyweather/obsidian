@@ -1,0 +1,3 @@
+news api key
+
+6d3e71d61e114ecc8e1171b9b27376b1

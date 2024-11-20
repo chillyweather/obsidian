@@ -1,0 +1,11 @@
+# Normalize
+#css
+
+
+/*Normalize*/
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  max-width: 100%;
+}

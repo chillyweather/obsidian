@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"d3ade049672db102","x":220,"y":-660,"width":200,"height":260,"type":"group","label":"data"},
+		{"id":"65517ca027a25121","x":-180,"y":-310,"width":250,"height":60,"color":"1","type":"text","text":"server"},
+		{"type":"text","text":"slack channel","id":"b8d7923317a83fc2","x":-820,"y":-740,"width":250,"height":60,"color":"3"},
+		{"id":"3462ed4b2ec4ecac","x":-180,"y":-770,"width":250,"height":60,"color":"6","type":"text","text":"widget"},
+		{"id":"28e4acff1be8dfae","x":-820,"y":-820,"width":250,"height":60,"color":"5","type":"text","text":"front-end"},
+		{"type":"text","text":"notion","id":"f2d4129ed59046b1","x":-820,"y":-660,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"status updates","id":"d68a3dcb9dc23082","x":240,"y":-560,"width":160,"height":50},
+		{"id":"41293daebb117c67","x":240,"y":-640,"width":160,"height":60,"type":"text","text":"red flags"},
+		{"type":"text","text":"release notes","id":"cba9b417533564e0","x":240,"y":-490,"width":160,"height":50}
+	],
+	"edges":[
+		{"id":"f8be3cfa0c7cd7b6","fromNode":"3462ed4b2ec4ecac","fromSide":"right","toNode":"65517ca027a25121","toSide":"right"}
+	]
+}

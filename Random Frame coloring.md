@@ -1,0 +1,1 @@
+Simple plugin that generates number of frames of specified size and random fill color for the each one.

@@ -1,0 +1,1 @@
+[Code Formatting Standards for Practicum by Yandex](https://code.s3.yandex.net/web-developer/static/design-rules-en/index.html)

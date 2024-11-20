@@ -1,0 +1,5 @@
+- [x] Parse any latin text pdf => txt/xml/json
+- [ ] Parse any hebrew text
+- [ ] Understand parts pdf document(by coordinates)
+- [ ] Split incoming data somehow (see previous)
+- [ ] 

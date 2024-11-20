@@ -1,0 +1,9 @@
+- [ ] tv
+- [ ] computer
+- [ ] desks
+	- [ ] tops
+	- [ ] sit/stand base
+- [ ] amp
+- [ ] subwoofer
+- [ ] closed headphones
+- [ ] ipad
