@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Frame coloring.md",
+                "file": "Subjects to learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random Frame coloring"
+              "title": "Subjects to learn"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Frame coloring.md",
+                "file": "Subjects to learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Random Frame coloring"
+              "title": "Backlinks for Subjects to learn"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random Frame coloring.md",
+                "file": "Subjects to learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Random Frame coloring"
+              "title": "Outgoing links from Subjects to learn"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Frame coloring.md"
+                "file": "Subjects to learn.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Random Frame coloring"
+              "title": "Outline of Subjects to learn"
             }
           },
           {
@@ -175,6 +175,7 @@
   },
   "active": "c431ab8df660e699",
   "lastOpenFiles": [
+    "Random Frame coloring.md",
     "3.5 hours a day.md",
     "Learnt today.md"
   ]
