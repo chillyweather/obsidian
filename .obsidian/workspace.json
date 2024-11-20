@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.5 hours a day.md",
+                "file": "Random Frame coloring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.5 hours a day"
+              "title": "Random Frame coloring"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.5 hours a day.md",
+                "file": "Random Frame coloring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3.5 hours a day"
+              "title": "Backlinks for Random Frame coloring"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.5 hours a day.md",
+                "file": "Random Frame coloring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3.5 hours a day"
+              "title": "Outgoing links from Random Frame coloring"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.5 hours a day.md"
+                "file": "Random Frame coloring.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3.5 hours a day"
+              "title": "Outline of Random Frame coloring"
             }
           },
           {
@@ -175,7 +175,7 @@
   },
   "active": "c431ab8df660e699",
   "lastOpenFiles": [
-    "Learnt today.md",
-    "3.5 hours a day.md"
+    "3.5 hours a day.md",
+    "Learnt today.md"
   ]
 }
