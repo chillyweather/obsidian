@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects to learn.md",
+                "file": "vim/Seven habits of effective text editing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subjects to learn"
+              "title": "Seven habits of effective text editing"
             }
           }
         ]
@@ -175,6 +175,10 @@
   },
   "active": "c431ab8df660e699",
   "lastOpenFiles": [
+    "vim/Untitled.md",
+    "vim/Vim Cheat Sheet.md",
+    "vim/Vim Manipulation Cheat Sheet.md",
+    "Subjects to learn.md",
     "Random Frame coloring.md",
     "3.5 hours a day.md",
     "Learnt today.md"
