@@ -1,5 +1,5 @@
 - [ ] [Professional JS: Features You Need to Know](https://frontendmasters.com/courses/pro-js-features/)
-- [ ] Learn JS (boot.dev)
+- [x] Learn JS (boot.dev)
 - [x] Learn HTTP (boot.dev)
 - [ ] [TypeScript 5+ Fundamentals, v4](https://frontendmasters.com/courses/typescript-v4/)
 - [x] Learn Go (boot.dev)
