@@ -4,11 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d46a24ff5a41d8c8",
+        "id": "acadb44b5a3a3704",
         "type": "tabs",
         "children": [
           {
-            "id": "3d2b4d312e4d547e",
+            "id": "34b28012cc02b917",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Subjects to learn.md",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Subjects to learn)"
+            }
+          },
+          {
+            "id": "751c214b24e8698d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +34,8 @@
               "title": "Subjects to learn"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,10 +183,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb22956701659e9f",
+  "active": "751c214b24e8698d",
   "lastOpenFiles": [
-    "Subjects to learn.md",
     "conflict-files-obsidian-git.md",
+    "Subjects to learn.md",
+    "vim/Insert mode completions.md",
+    "Pasted image 20241207143014.png",
     "Random Frame coloring.md",
     "3.5 hours a day.md",
     "Learnt today.md"
