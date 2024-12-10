@@ -24,14 +24,12 @@
             "id": "751c214b24e8698d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Subjects to learn.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20241207143014.png"
               },
-              "icon": "lucide-file",
-              "title": "Subjects to learn"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241207143014"
             }
           }
         ],
@@ -185,11 +183,11 @@
   },
   "active": "751c214b24e8698d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Subjects to learn.md",
-    "vim/Insert mode completions.md",
-    "Pasted image 20241207143014.png",
     "Random Frame coloring.md",
+    "Pasted image 20241207143014.png",
+    "Subjects to learn.md",
+    "conflict-files-obsidian-git.md",
+    "vim/Insert mode completions.md",
     "3.5 hours a day.md",
     "Learnt today.md"
   ]
